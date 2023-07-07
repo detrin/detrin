@@ -11,8 +11,9 @@ Random facts about me:
 - If you want to see my Master's thesis, you can find it [here](https://github.com/detrin/Master-Thesis/blob/main/thesis.pdf)
 
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detrin&langs_count=10) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=detrin&theme=tokyonight)
+:-------------------------:|:-------------------------:
+
 ![](https://komarev.com/ghpvc/?username=detrin&label=Profile%20views&color=0e75b6&style=flat)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detrin&langs_count=10)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=detrin&theme=tokyonight" alt="mystreak"/>
