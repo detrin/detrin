@@ -1,8 +1,8 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Daniel Herman
 
-### About Me
-I am recent graduate of the Charles university in Prague, where I studied Physics. I am curretly working as Data Scientist at [Home Credit International](https://www.homecredit.net/). 
+
+I am recent graduate of the Charles university in Prague, where I studied Physics. I am curretly working as Data Scientist at [Home Credit International](https://www.homecredit.net/) Risk RnD team. 
 
 Random facts about me:
 - I love Seinfeld
@@ -10,6 +10,11 @@ Random facts about me:
 - I am currently learning Rust and Go
 - If you want to see my Master's thesis, you can find it [here](https://github.com/detrin/Master-Thesis/blob/main/thesis.pdf)
 
+Last open source projects I worked on:
+- [Solving Polyomio with SAT in Rust](https://github.com/detrin/rust-sat-polyomino)
+- [VAE Candle with ONNX in React](https://hermandaniel.com/#/candle)
+- [Mechanical Stoic Backend in Rust](https://github.com/detrin/mechanical-stoic-rust-api)
+- [Advent of code 2022 in Rust](https://github.com/detrin/advent_of_code_2022)
 ### My GitHub Stats
 
 <a href="https://github.com/detrin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detrin&langs_count=10" alt="Top Languages" /></a>
