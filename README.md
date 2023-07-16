@@ -12,7 +12,7 @@ Random facts about me:
 
 Last open source projects I worked on:
 - [Solving Polyomio with SAT in Rust](https://github.com/detrin/rust-sat-polyomino)
-- [VAE Candle with ONNX in React](https://hermandaniel.com/#/candle)
+- [VAE Candle with ONNX in React](https://github.com/detrin/VAE-candle-ONNX-react)
 - [Mechanical Stoic Backend in Rust](https://github.com/detrin/mechanical-stoic-rust-api)
 - [Advent of code 2022 in Rust](https://github.com/detrin/advent_of_code_2022)
 ### My GitHub Stats
