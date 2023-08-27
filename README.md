@@ -17,7 +17,7 @@ Last open source projects I worked on:
 - [Advent of code 2022 in Rust](https://github.com/detrin/advent_of_code_2022)
 ### My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detrin&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&custom_title=Top Languages&hide=css,scss,html,Dockerfile,Roff,Jupyter Notebook,TeX" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detrin&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&custom_title=Top Languages&hide=css,scss,html,Dockerfile,Roff,Jupyter%20Notebook,TeX" alt="Top Languages" /></a>
 
 
 <a href="http://www.github.com/detrin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=detrin&theme=dark#gh-dark-mode-only" /></a>
