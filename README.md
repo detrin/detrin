@@ -11,6 +11,8 @@ Random facts about me:
 - If you want to see my Master's thesis, you can find it [here](https://github.com/detrin/Master-Thesis/blob/main/thesis.pdf)
 
 Last open source projects I worked on:
+- [Logistic Regression implemented in PostgreSQL](https://github.com/detrin/sql-logreg)
+- [GPT analysis of shap issues](https://github.com/detrin/shap-issues)
 - [Solving Polyomio with SAT in Rust](https://github.com/detrin/rust-sat-polyomino)
 - [VAE Candle with ONNX in React](https://github.com/detrin/VAE-candle-ONNX-react)
 - [Mechanical Stoic Backend in Rust](https://github.com/detrin/mechanical-stoic-rust-api)
@@ -18,8 +20,6 @@ Last open source projects I worked on:
 ### My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detrin&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&custom_title=Top%20Languages&hide=css,html,Dockerfile,Roff,Jupyter+Notebook,TeX" alt="Top Languages" /></a>
-
-
 
 
 <a href="http://www.github.com/detrin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=detrin&theme=dark#gh-dark-mode-only" /></a>
