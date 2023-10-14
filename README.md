@@ -2,7 +2,7 @@
 # Daniel Herman
 
 
-I am recent graduate of the Charles university in Prague, where I studied Physics. I am curretly working as Data Scientist at [Home Credit International](https://www.homecredit.net/) Risk RnD team. 
+I am a graduate of the Charles university in Prague, where I studied Physics. I am curretly working as Data Scientist at [Home Credit International](https://www.homecredit.net/) Risk RnD team. 
 
 Random facts about me:
 - I love Seinfeld
