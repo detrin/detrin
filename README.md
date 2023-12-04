@@ -11,6 +11,7 @@ Random facts about me:
 - If you want to see my Master's thesis, you can find it [here](https://github.com/detrin/Master-Thesis/blob/main/thesis.pdf)
 
 Last open source projects I worked on:
+- [Asvent of Code 2023](https://github.com/detrin/advent-of-code-2023)
 - [Markov chains describing flickering lamp](https://github.com/detrin/flickering-neon-lamp)
 - [Logistic Regression implemented in PostgreSQL](https://github.com/detrin/sql-logreg)
 - [GPT analysis of shap issues](https://github.com/detrin/shap-issues)
