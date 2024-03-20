@@ -5,8 +5,8 @@
 I am a graduate of the Charles university in Prague, where I studied Physics. I am curretly working as Data Scientist at [Home Credit International](https://www.homecredit.net/) Risk RnD team and as Data Scientist (external contractor ) at [TV Nova]([https://www.homecredit.net/](https://tv.nova.cz)) 
 
 Random facts about me:
-- I love Seinfeld
-- I do indoor bouldering 
+- I like Seinfeld
+- I like bouldering and climbing
 - I am currently learning Rust and Go
 - If you want to see my Master's thesis, you can find it [here](https://github.com/detrin/Master-Thesis/blob/main/thesis.pdf)
 
