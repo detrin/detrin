@@ -1,9 +1,6 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Daniel Herman
 
-
-I work as a Data Scientist at [Similarweb](https://www.similarweb.com)
-
 Random facts about me:
 - I like Seinfeld
 - I like bouldering and climbing
