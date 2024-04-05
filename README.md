@@ -2,7 +2,7 @@
 # Daniel Herman
 
 
-I am a graduate of the Charles university in Prague, where I studied Physics. I am curretly working as Data Scientist at [Home Credit International](https://www.homecredit.net/) Risk RnD team and as Data Scientist (external contractor ) at [TV Nova]([https://www.homecredit.net/](https://tv.nova.cz)) 
+I work as a Data Scientist at [Similarweb](https://www.similarweb.com)
 
 Random facts about me:
 - I like Seinfeld
