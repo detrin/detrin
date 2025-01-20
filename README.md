@@ -5,14 +5,14 @@ Random facts about me:
 - I like Seinfeld
 - I like bouldering and climbing
 
-Last open source projects I worked on:
+Highlighted projects:
+- [meme-generator](https://github.com/detrin/meme-generator)
+- [llm-pdf-summarization](https://github.com/detrin/llm-pdf-summarization)
 - [download-iso3166-list](https://github.com/detrin/download-iso3166-list)
 - [Rock, Paper, Scissors webapp with TensorFlow.js](https://github.com/detrin/rock-paper-scissors-webapp)
-- [Advent of Code 2023 in Rust and Go](https://github.com/detrin/advent-of-code-2023)
 - [Logistic Regression implemented in PostgreSQL](https://github.com/detrin/sql-logreg)
 - [Solving Polyomio with SAT in Rust](https://github.com/detrin/rust-sat-polyomino)
 - [VAE Candle with ONNX in React](https://github.com/detrin/VAE-candle-ONNX-react)
-- [Mechanical Stoic Backend in Rust](https://github.com/detrin/mechanical-stoic-rust-api)
 
 ### My GitHub Stats
 
