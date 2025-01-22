@@ -6,7 +6,7 @@ Random facts about me:
 - I like bouldering and climbing
 
 Highlighted projects:
-- [meme-generator](https://github.com/detrin/meme-generator)
+- [pub-finder](https://github.com/detrin/pub-finder)
 - [llm-pdf-summarization](https://github.com/detrin/llm-pdf-summarization)
 - [download-iso3166-list](https://github.com/detrin/download-iso3166-list)
 - [Rock, Paper, Scissors webapp with TensorFlow.js](https://github.com/detrin/rock-paper-scissors-webapp)
