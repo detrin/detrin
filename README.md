@@ -6,6 +6,7 @@ Random facts about me:
 - I like bouldering and climbing
 
 Highlighted projects:
+- [LightRL](https://github.com/detrin/lightrl)
 - [pub-finder](https://github.com/detrin/pub-finder)
 - [llm-pdf-summarization](https://github.com/detrin/llm-pdf-summarization)
 - [download-iso3166-list](https://github.com/detrin/download-iso3166-list)
