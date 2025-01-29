@@ -11,8 +11,6 @@ Highlighted projects:
 - [pub-finder](https://github.com/detrin/pub-finder)
 - [llm-pdf-summarization](https://github.com/detrin/llm-pdf-summarization)
 - [download-iso3166-list](https://github.com/detrin/download-iso3166-list)
-- [Rock, Paper, Scissors webapp with TensorFlow.js](https://github.com/detrin/rock-paper-scissors-webapp)
-- [VAE Candle with ONNX in React](https://github.com/detrin/VAE-candle-ONNX-react)
 
 ### My GitHub Stats
 
