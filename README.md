@@ -6,13 +6,12 @@ Random facts about me:
 - I like bouldering and climbing
 
 Highlighted projects:
-- [LightRL](https://github.com/detrin/lightrl)
+- [yt-search](https://github.com/detrin/yt-search)
+- [LightRL](https://github.com/detrin/lightrl) 
 - [pub-finder](https://github.com/detrin/pub-finder)
 - [llm-pdf-summarization](https://github.com/detrin/llm-pdf-summarization)
 - [download-iso3166-list](https://github.com/detrin/download-iso3166-list)
 - [Rock, Paper, Scissors webapp with TensorFlow.js](https://github.com/detrin/rock-paper-scissors-webapp)
-- [Logistic Regression implemented in PostgreSQL](https://github.com/detrin/sql-logreg)
-- [Solving Polyomio with SAT in Rust](https://github.com/detrin/rust-sat-polyomino)
 - [VAE Candle with ONNX in React](https://github.com/detrin/VAE-candle-ONNX-react)
 
 ### My GitHub Stats
