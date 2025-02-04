@@ -2,7 +2,6 @@
 # Daniel Herman
 
 Random facts about me:
-- I like Seinfeld
 - I like bouldering and climbing
 
 Highlighted projects:
