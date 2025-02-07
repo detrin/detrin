@@ -5,6 +5,7 @@ Random facts about me:
 - I like bouldering and climbing
 
 Highlighted projects:
+- [model-deployment-example](https://github.com/detrin/model-deployment-example)
 - [yt-search](https://github.com/detrin/yt-search)
 - [LightRL](https://github.com/detrin/lightrl) 
 - [pub-finder](https://github.com/detrin/pub-finder)
