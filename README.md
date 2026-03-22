@@ -1,15 +1,10 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Daniel Herman
 
-Random facts about me:
-- I like bouldering and climbing
-
 Highlighted projects:
-- [model-deployment-example](https://github.com/detrin/model-deployment-example)
 - [yt-search](https://github.com/detrin/yt-search)
 - [LightRL](https://github.com/detrin/lightrl) 
 - [pub-finder](https://github.com/detrin/pub-finder)
-- [llm-pdf-summarization](https://github.com/detrin/llm-pdf-summarization)
 - [download-iso3166-list](https://github.com/detrin/download-iso3166-list)
 
 ### My GitHub Stats
