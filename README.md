@@ -4,16 +4,16 @@ I build tools at the intersection of AI and automation.
 
 Physics MSc → Data Scientist → ML Engineer. 
 
-Currently building **[brow](https://github.com/detrin/brow)** — a browser automation CLI designed for AI agents.
+Currently building **[brow](https://github.com/detrin/brow)** - a browser automation CLI designed for AI agents.
 
 ---
 
 ### Projects
 
-- **[brow](https://github.com/detrin/brow)** — agentic browser control via simple CLI commands (navigate, click, fill, snapshot)
-- **[LightRL](https://github.com/detrin/lightrl)** — lightweight reinforcement learning library in Python
-- **[yt-search](https://github.com/detrin/yt-search)** — search YouTube videos and extract their context
-- **[pub-finder](https://github.com/detrin/pub-finder)** — find the optimal meeting spot for a group of people
+- **[brow](https://github.com/detrin/brow)** - agentic browser control via simple CLI commands (navigate, click, fill, snapshot)
+- **[LightRL](https://github.com/detrin/lightrl)** - lightweight reinforcement learning library in Python
+- **[yt-search](https://github.com/detrin/yt-search)** - search YouTube videos and extract their context
+- **[pub-finder](https://github.com/detrin/pub-finder)** - find the optimal meeting spot for a group of people
 
 ---
 
