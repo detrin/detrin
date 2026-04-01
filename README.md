@@ -6,6 +6,8 @@ Physics MSc → Data Scientist → ML Engineer.
 
 Currently building **[brow](https://github.com/detrin/brow)** - a browser automation CLI designed for AI agents.
 
+![brow demo](demo.gif)
+
 ---
 
 ### Projects
