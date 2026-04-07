@@ -1,21 +1,18 @@
 # Daniel Herman
 
-I build tools at the intersection of AI and automation.
+I build systems that catch bad actors and give AI agents real capabilities.
 
-Physics MSc → Data Scientist → ML Engineer. 
-
-Currently building **[brow](https://github.com/detrin/brow)** - a browser automation CLI designed for AI agents.
-
-![brow demo](https://github.com/user-attachments/assets/27c6114c-451b-4e64-b66d-2268248be79b)
+Physics MSc -> ML Engineer. Building [kremlometr.cz](https://kremlometr.cz) - automated propaganda detection in Czech media. Building [brow](https://github.com/detrin/brow) - browser automation CLI for AI agents.
 
 ---
 
 ### Projects
 
 - **[brow](https://github.com/detrin/brow)** - agentic browser control via simple CLI commands (navigate, click, fill, snapshot)
-- **[LightRL](https://github.com/detrin/lightrl)** - lightweight reinforcement learning library in Python
-- **[yt-search](https://github.com/detrin/yt-search)** - search YouTube videos and extract their context
-- **[pub-finder](https://github.com/detrin/pub-finder)** - find the optimal meeting spot for a group of people
+- **[kremlometr.cz](https://kremlometr.cz)** - automated pro-Russian propaganda detection in Czech news comments
+- **[ai-in-prague](https://github.com/detrin/ai-in-prague)** - structured catalog of 375 Prague AI/ML companies with D3 visualization
+- **[agent-tools-benchmark](https://github.com/detrin/agent-tools-benchmark)** - benchmark for agent performance with and without tool augmentation
+- **[autoresearch](https://github.com/detrin/autoresearch)** - automated research tooling (in progress)
 
 ---
 
