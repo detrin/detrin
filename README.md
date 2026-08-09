@@ -4,6 +4,8 @@ I build systems that catch bad actors and give AI agents real capabilities.
 
 Physics MSc -> ML Engineer. Building [kremlometr.cz](https://kremlometr.cz) - automated propaganda detection in Czech media. Building [brow](https://github.com/detrin/brow) - browser automation CLI for AI agents.
 
+Always open to talking with other builders. Reach out: [hermandaniel.com](https://hermandaniel.com) / [@itsdanielherman](https://x.com/itsdanielherman)
+
 ---
 
 ### Projects
